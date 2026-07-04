@@ -39,6 +39,10 @@ Built with an enterprise-first mindset, the entire system operates within a high
 ### 💻 4. Premium Interactive Dashboard
 *   A sleek, modern user interface featuring real-time visualization of active roadmaps, structured task pipelines, and live test-taking modules.
 *   Includes a transparent security center displaying active audit logs and PII filter status.
+
+*   <p align="center">
+  <img src="Screenshot 2026-07-04 231001.png" alt="CareerForge AI Dashboard" width="100%">
+</p>
 ---
 
 ## Directory Structure
