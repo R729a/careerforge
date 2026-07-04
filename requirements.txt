@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pypdf
+httpx
+google-generativeai
+mcp
+pyjwt
+bleach
+python-dotenv
+email-validator
+
