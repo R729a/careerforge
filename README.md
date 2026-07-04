@@ -81,7 +81,6 @@ careerforge-ai/
 ```
 ## 📂 Directory Structure
 
-
 ---
 
 ## Quick Start Guide
